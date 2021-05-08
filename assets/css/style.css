@@ -1,0 +1,26 @@
+.panel-footer {
+ 
+    background-color: #17A2B8;
+    border-top: 1px solid #17A2B8;
+   
+  }
+
+  .text{
+      color:white;
+  }
+  .fa{
+      color:white;
+      
+  }
+  .panel-footer2
+  {
+    padding: 10px 15px;
+    background-color: #E83E8C;
+    border-top: 1px solid #E83E8C;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+  }
+  .p{
+    color:white;
+    
+}
